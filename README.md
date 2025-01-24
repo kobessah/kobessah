@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Emmanuel
+# 👋 Hey there, I'm Kofi
 
 
 I am a Software Engineer based in Manchester, UK. Work at Next Gen Engineering, Accenture UK & Ireland. Previously Infinity Works Consulting (UK), University of Education - Winneba (GH) and Sabonay Technologies (GH).
